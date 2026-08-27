@@ -1,0 +1,6 @@
+{
+  "name": "AI Saathi Hub",
+  "description": "100+ Free Daily Tools with Google Sheets, Google Drive, and Gmail integration - One Website, Every Daily Problem Solved. Privacy-first, browser-side tools for PDF, images, text, calculators, finance, and career.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
