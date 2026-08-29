@@ -1,0 +1,32 @@
+📂 ai-saathi-hub/
+│
+├── 📄 index.html          ← MAIN FILE (सबसे important)
+│
+├── 📄 README.md           ← Project description
+│
+├── 📄 robots.txt          ← Search engine instructions
+│
+├── 📄 sitemap.xml         ← Site map for SEO
+│
+├── 📁 assets/             ← All images, icons, etc.
+│   ├── 📁 images/
+│   │   ├── favicon.og.jpg
+│   │   ├── logo.png
+│   │   └── social-icons/
+│   │       ├── youtube.png
+│   │       ├── instagram.png
+│   │       └── telegram.png
+│   └── 📁 css/
+│       └── style.css      (अगर separate CSS है)
+│
+├── 📁 pages/              ← Static pages
+│   ├── about.html
+│   ├── contact.html
+│   ├── privacy-policy.html
+│   ├── terms.html
+│   └── disclaimer.html
+│
+└── 📁 tools/              ← Individual tool pages (optional)
+    ├── word-counter.html
+    ├── image-compressor.html
+    └── ...
